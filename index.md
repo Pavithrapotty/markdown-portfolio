@@ -2,13 +2,20 @@
 layout: default
 ---
 
-{% include 01-name.md %}
+*Pavithraganga*
 
 <br>
 
-{% include 02-image.md %}
+**Padmanabhan**
 
 <br>
 
-{% include 03-links.md %}
+*Indukala*
 
+<br>
+
+
+
+<br>
+
+__Pranath__
